@@ -1,1 +1,0 @@
-# gal-code-challenge
