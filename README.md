@@ -53,3 +53,6 @@ mvnw spring-boot:run
 
 Open-api spec and swagger ui are available for testing purposes at [localhost 8080](http://localhost:8080/swagger-ui.html)
 
+![image](https://github.com/user-attachments/assets/3b7223c8-bcc6-4cf5-a202-1f4de6316e24)
+
+
